@@ -7,4 +7,4 @@ It was a good tutorial to follow as it introduced me to many beginner concepts I
 
 Although the tutorial came with sample sprites to use for the characters and the terrain, I decided to use what I had already taught myself in Adobe Photoshop to create my own pixel art to give the game a more unique feel, even though I was following a step-by-step tutorial.
 
-To run the game, go into the 'builds' folder. From here, you will find several builds of the game, the most recent of which will be the best. 
+To run the game, go into the 'builds' folder. From here, you will find several builds of the game, the most recent of which will be the best. Download the folder and run the .exe file to play the game.
